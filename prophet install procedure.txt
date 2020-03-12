@@ -1,0 +1,13 @@
+First you have to Install c++ compiler, you can install c++ compiler with below command -
+
+conda install libpython m2w64-toolchain -c msys2
+
+Once c++ compiler installed you have to install pystan, to install pystan you can use below command
+
+pip install pystan
+
+Finally, now we are ready to install facebook prophet -
+
+pip install fbprophet
+
+pip install pandas_datareader
